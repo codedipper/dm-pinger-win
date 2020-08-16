@@ -1,6 +1,6 @@
 const { botToken, userID, pingInterval } = require("./config.json");
 const DSC = require("discord.js");
-const Client = new DSC.Client(botToken);
+const Client = new DSC.Client();
 
 Client.on("ready", () => {
     console.log("Bot is up and up running.");
