@@ -1,0 +1,34 @@
+{
+  "name": "dm-pinger-win",
+  "version": "0.1.1",
+  "description": "The bot that can ping your DMs!",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedipper/dm-pinger-win.git"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/codedipper/dm-pinger-win/issues"
+  },
+  "homepage": "https://github.com/codedipper/dm-pinger-win#readme",
+  "keywords": [
+    "dm",
+    "discord",
+    "discord.js",
+    "discord-bot",
+    "pings",
+    "discord-js",
+    "discordjs",
+    "ping",
+    "discord bot"
+  ],
+  "author": "Reverse",
+  "license": "MIT"
+}
