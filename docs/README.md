@@ -6,7 +6,7 @@ Fill out `config.json` with your bot token, user id, and interval in seconds.\
 Run `start.bat`.
 ## Licensing
 This bot is not meant to be reproducted or distributed.\
-All credit goes to `Reverse#0001` or User ID `658346535087636505` on Discord.\
+All credit goes to `Reverse#1728` or User ID `658346535087636505` on Discord.\
 See `LICENSE.md` for more information.
 ## Discord Rate Limiting
 The Discord Rate Limiting is about 1 request per second, per client in one server.\
